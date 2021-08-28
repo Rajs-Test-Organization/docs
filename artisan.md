@@ -357,3 +357,5 @@ If you would like to call another console command and suppress all of its output
     $this->callSilent('email:send', [
         'user' => 1, '--queue' => 'default'
     ]);
+    
+    Testing.
